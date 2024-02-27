@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(2, 40, 53);
+    background-image: url("../files/s.gif");
+    margin: 0;
+}
+
+main {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.titol {
+    text-align: center;
+}
+
+h1{
+    color: white;
+    display: inline-block;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+hr {
+    margin-bottom: 20px;
+}
+
+.rip {
+    vertical-align: text-bottom;
+    width: 30px;
+}
+
+.arrow {
+    width: 20px;
+    height: 18px;
+    transform: scaleX(-1);
+    vertical-align: text-bottom;
+}
+
+p {
+    color: white;
+    line-height: 1.8;
+    text-indent: 100px;
+    text-align: justify;
+}
+
+h3 {
+    color: yellow;
+    display: inline-block;
+}
+
+h4 {
+    text-align: center;
+    color: rgb(125, 125, 255);
+    font-size: large;
+}

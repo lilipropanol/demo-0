@@ -1,0 +1,25 @@
+.barramenu ul{
+    list-style-type: none;
+    background-color: rgb(35, 35, 35);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.barramenu a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    
+}
+
+.barramenu a:hover{
+    background-color: rgb(89, 89, 89);
+    cursor: url('../files/cursor.png'), auto;
+}
+
+.barramenu li{
+    float: left;
+}

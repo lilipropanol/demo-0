@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(2, 40, 53);
+    background-image: url("../files/s.gif");
+    margin: 0px;
+    color: white;
+}
+
+h4 {
+    margin-top: 23%;
+    text-align: center;
+}

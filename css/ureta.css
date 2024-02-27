@@ -1,0 +1,120 @@
+body {
+    background-color: rgb(2, 40, 53);
+    background-image: url("../files/s.gif");
+    margin: 0px;
+}
+
+main {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 5%;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h3 {
+    color: white;
+    margin-bottom: 12%;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.loveu {
+    color: yellow;
+    text-shadow: 0 0 3px #ffa500, 0 0 7px #ffa500, 0 0 10px #ffa500, 0 0 20px #ffa500, 0 0 30px #ff0000, 0 0 5px #ff8d00, 0 0 46px #ff0000;
+    text-align: center;
+    font-family: 'Satisfy';
+    font-style: italic;
+    font-size: 40px;
+}
+
+h4 {
+    color: white;
+    font-size: 15px;
+    text-align: right;
+    margin-right: 25%;
+}
+
+
+.prefaciL {
+    color: white;
+    width: 660px;
+    margin: auto;
+}
+
+.prefaciL p::first-letter {
+    font-size: 50px;
+    line-height: 0.98;
+    float: left;
+    padding-right: 10px;
+}
+
+p {
+    color: white;
+    text-align: justify;
+    line-height: 1.8;
+}
+
+.article {
+    color: white;
+    margin-bottom: 50px;
+    text-align: justify;
+    line-height: 1.8;
+}
+
+.setofarticles {
+    margin-bottom: 50%;
+}
+
+.prefaci {
+    margin-bottom: 70%;
+}
+
+.context {
+    display: flex;
+    position: relative;
+    height: 180px;
+    width: 700px;
+    margin: auto;
+    margin-bottom: 14%;
+}
+
+.context img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.contextxt{
+    z-index: 9;
+    margin-right: 13%;
+    margin-left: 13%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #565656;
+    color: black;
+    text-shadow: 0px 2px 3px rgba(255,255,255,0.5);
+    -webkit-background-clip: text;
+       -moz-background-clip: text;
+            background-clip: text;
+}
+
+.santaclaudia {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    margin-bottom: 50%;
+    width: 400px;
+}
